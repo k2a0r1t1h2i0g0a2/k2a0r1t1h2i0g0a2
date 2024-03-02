@@ -3,9 +3,7 @@
 <h3 align="center">About Me</h3> 
 <p align = "left"> I have a strong command over both Front-end and Back-end technologies , allowing me to build complete and scalable applications. I'm also responsible for designing , developing,and maintaining,web applications using MERN stack technology. My goal is to contribute to innovative projects that make a positive impact .</p> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k2a0r1t1h2i0g0a2&label=Profile%20views&color=0e75b6&style=flat" alt="k2a0r1t1h2i0g0a2" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k2a0r1t1h2i0g0a2" alt="k2a0r1t1h2i0g0a2" /></a> </p>
 
 - 📫 How to reach me **karthiga.r2002@gmail.com**
 
